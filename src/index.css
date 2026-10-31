@@ -1,0 +1,5 @@
+:root { font-family: 'Nunito', 'Trebuchet MS', sans-serif; color: #263238; background: #f8f5ef; font-synthesis: none; text-rendering: optimizeLegibility; -webkit-font-smoothing: antialiased; }
+* { box-sizing: border-box; }
+body { margin: 0; min-width: 320px; }
+button, input { font: inherit; }
+button { cursor: pointer; }
